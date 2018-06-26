@@ -1,0 +1,33 @@
+# Site settings
+title: Free Tools and Guides
+subtitle: by Jeremiah Tillman
+email: jeremiahtillman@gmail.com
+description: A landing page for my free tools and Guides
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: None of your business
+city: Chicago-ish
+state: IL
+zip_code: 55555
+country: United States of America
+phone: BATSIGNAL
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/thejeremiahtillman
+gitlab_url: https://gitlab.com/u/jeremiahtillman
+googleplus_url: https://plus.google.com/u/0/+jeremiahtillman
+instagram_url: https://instagram.com/thejeremiahtillman
+linkedin_url: https://www.linkedin.com/in/jeremiah.tillman
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/jeremiahtillman
+
+# Sass building
+sass:
+    sass_dir: _sass
+
+# Build settings
+markdown: kramdown
